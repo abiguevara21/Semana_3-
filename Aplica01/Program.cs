@@ -12,6 +12,7 @@ namespace Aplica01
         {
             Console.Write("Bienvenidos al curso de C#");
             Console.Write("Hola");
+            Console.Write("Eo");
             Console.ReadKey();
 
         }
